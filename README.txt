@@ -5,7 +5,7 @@
 
 2. Download the Project  
    - Clone the repository:  
-     `git clone <repository_link>`
+   - git clone https://github.com/Reeshika-aa/Nearby-restaurants-fetching.git
    - Or download and extract the `.zip` file.
 
 3. Install Libraries  
